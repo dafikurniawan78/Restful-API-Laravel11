@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 Laravel 11 RESTful API</h1>
-  <p><strong>Proyek Membangun API bersama SantriKoding</strong></p>
+  <p><strong>Proyek Membangun RestfulAPI bersama SantriKoding</strong></p>
 
   <p>
     <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 11"/></a>
