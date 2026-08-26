@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://santrikoding.com/images/logo.png" alt="SantriKoding Logo" width="200"/>
   <h1>🚀 Laravel 11 RESTful API</h1>
-  <p><strong>Proyek Belajar Membangun API dari Nol bersama SantriKoding</strong></p>
+  <p><strong>Proyek Membangun API bersama SantriKoding</strong></p>
 
   <p>
     <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 11"/></a>
