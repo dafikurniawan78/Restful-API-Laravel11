@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://santrikoding.com/images/logo.png" alt="SantriKoding Logo" width="200"/>
   <h1>🚀 Laravel 11 RESTful API</h1>
   <p><strong>Proyek Membangun API bersama SantriKoding</strong></p>
 
