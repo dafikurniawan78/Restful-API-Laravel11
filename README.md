@@ -29,7 +29,7 @@ Karena proyek ini sedang dalam tahap pengembangan (mengikuti seri tutorial), ber
 - [x] **Create (POST)**: Endpoint untuk menambahkan data artikel beserta unggah gambar
 - [x] **Read (GET)**: Endpoint untuk menampilkan semua data dan data spesifik
 - [x] **Update (PUT/PATCH)**: Endpoint untuk memperbarui data
-- [ ] **Delete (DELETE)**: Endpoint untuk menghapus data
+- [x] **Delete (DELETE)**: Endpoint untuk menghapus data
 
 ---
 
