@@ -26,9 +26,9 @@ Karena proyek ini sedang dalam tahap pengembangan (mengikuti seri tutorial), ber
 - [x] **Setup & Konfigurasi** Laravel 11
 - [x] **Model & Migration** untuk entitas `Post`
 - [x] **API Resource** (`PostResource`) untuk format JSON response yang konsisten
-- [ ] **Create (POST)**: Endpoint untuk menambahkan data artikel beserta unggah gambar
-- [ ] **Read (GET)**: Endpoint untuk menampilkan semua data dan data spesifik
-- [ ] **Update (PUT/PATCH)**: Endpoint untuk memperbarui data
+- [x] **Create (POST)**: Endpoint untuk menambahkan data artikel beserta unggah gambar
+- [x] **Read (GET)**: Endpoint untuk menampilkan semua data dan data spesifik
+- [x] **Update (PUT/PATCH)**: Endpoint untuk memperbarui data
 - [ ] **Delete (DELETE)**: Endpoint untuk menghapus data
 
 ---
